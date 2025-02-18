@@ -41,7 +41,7 @@ Before running the project, ensure you have the following installed:
 
 1. Navigate to the frontend directory:
    ```sh
-   cd frontend
+   cd create-vue
    ```
 2. Install dependencies:
    ```sh
